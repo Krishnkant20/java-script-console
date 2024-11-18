@@ -1,10 +1,10 @@
 // var let const
 
-var num=25;
+// var num=25;
 
 // run java script
 
-function run(){
+// function run(){
         // var num=45;
         // console.log(num)
         // let num1=55;
@@ -25,8 +25,24 @@ function run(){
         // console.log(num)
 
         //reassingment============================
+        // const pi=3.14;
         // const num=45;
         // num =34;
         // console.log(num)
+// }
+// run();
+
+function oper(){
+// alert("Hello i am alert message")
+// prompt("Hello i am prompt message")
+// confirm("Hello confirmed")
+
+// let num1=2;
+// let num2=3;
+// console.log(num1+num2)
+// alert( "the sum is" +(num1+num2))
+ let num1= parseInt(prompt("enter first number"));
+ let num2= parseInt(prompt("enter second number"));
+alert(num1+num2);
 }
-run();
+oper();
