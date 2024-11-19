@@ -32,7 +32,7 @@
 // }
 // run();
 
-function oper(){
+// function oper(){
 // alert("Hello i am alert message")
 // prompt("Hello i am prompt message")
 // confirm("Hello confirmed")
@@ -41,8 +41,24 @@ function oper(){
 // let num2=3;
 // console.log(num1+num2)
 // alert( "the sum is" +(num1+num2))
- let num1= parseInt(prompt("enter first number"));
- let num2= parseInt(prompt("enter second number"));
-alert(num1+num2);
+//  let num1= parseInt(prompt("enter first number"));
+//  let num2= parseInt(prompt("enter second number"));
+// alert(num1+num2);
+// let num1= prompt("enter first number");
+// let num2= prompt("enter second number");
+// alert(num1-num2);
+// }
+// oper();
+// function run(){
+//         alert("hello")
+// }
+// function run(){
+//         prompt("hello")
+// }
+// function run(){
+//         prompt("hello")
+// }
+function run(){
+let num= prompt("enter your age");
+num>18?alert("uh can vote"):alert("uh cant vote")
 }
-oper();
