@@ -59,6 +59,23 @@
 //         prompt("hello")
 // }
 function run(){
-let num= prompt("enter your age");
-num>18?alert("uh can vote"):alert("uh cant vote")
+// // let num= prompt("enter your age");
+// // num>18?alert("uh can vote"):alert("uh cant vote")
+// let num1=confirm("you have complete the course");
+// let num2=confirm("you have certificate");
+// if(num1&&num2){
+//         alert("completed")
+// }
+// else{
+//         alert("not completed")
+// }
+// let num1=prompt("check the number even or odd");
+// if(num1%2==0){
+//         alert("even number");
+// }
+// else{
+//         alert("odd number");
+// }
+
+
 }
