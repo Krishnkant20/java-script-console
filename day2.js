@@ -75,7 +75,26 @@ function run(){
 // }
 // else{
 //         alert("odd number");
-// }
+// } 
+//  let num=confirm("are you sure to delete");
+// if(num){
+//         alert("item delete")
+// }else{
+//         alert("cancelled")
+
+
+// document.write("hello world")
+let para=document.querySelector("#text");
+ para.innerHTML="kk bhai";
+ para.style.color="purple"
+ para.style.fontSize="30px"
+ para.style.backgroundColor="yellow"
+ 
+
+
+
 
 
 }
+
+ 
