@@ -84,17 +84,19 @@ function run(){
 
 
 // document.write("hello world")
-let para=document.querySelector("#text");
+let para=document.querySelector("#dot");
 //  para.innerHTML="krishnkant ";
 //  para.style.color="purple"
 //  para.style.fontSize="80px"
 //  para.style.backgroundColor="yellow"
-if(para.style.display==="none"){
-        para.style.display="block";
-} else{
-        para.style.display="none";
-}
-
+// if(para.style.display==="none"){
+//         para.style.display="block";
+// } else{
+//         para.style.display="none";
+// }
+para.style.width="200px"
+para.style.height="300px"
+para.style.backgroundColor="yellow" 
 
 
 
