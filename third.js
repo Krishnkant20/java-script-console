@@ -1,7 +1,7 @@
 function changeImage1(){
 
     let imgg=document.querySelector("#first")
-    imgg.src="javimg2.jpg";
+    imgg.src="javimg2 .jpg";
 
 
   }
